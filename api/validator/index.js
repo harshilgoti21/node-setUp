@@ -1,0 +1,11 @@
+exports.authValidators = require("./authValidators");
+exports.areaValidators = require("./areaValidators");
+exports.adValidators = require("./adValidators");
+exports.bussinessValidators = require("./bussinessValidators");
+exports.catgoryValidators = require("./catgoryValidators");
+exports.pincodeValidators = require("./pincodeValidators");
+exports.uploadValidators = require("./uploadValidators");
+exports.cityValidatiors = require("./cityValidator");
+exports.tagValidators = require("./tagValidators");
+exports.subCatgoryValidators = require("./subCatgoryValidators");
+exports.groupTagValidators = require("./groupTagValidators");
