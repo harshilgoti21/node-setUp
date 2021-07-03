@@ -8,6 +8,8 @@ module.exports = (app) => {
    * Health Check endpoints
    * @TODO Explain why they are here
    */
+
+  
   app.get("/status", (req, res) => {
     res.status(200).end();
   });
